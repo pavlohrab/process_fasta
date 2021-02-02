@@ -1,4 +1,9 @@
 # Process fasta script
+
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=pavlohrab.process_fasta&style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/pavlohrab/process_fasta?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/pavlohrab/process_fasta?style=for-the-badge)
+
 This script is just a collection of one-liners, with which I was processing fasta sequences frequently. Therefore I made one single script out of them. All the one-liners are freely available on different forums.
 # Dependencies
 The script is inthended to be run under Linux, using only the basic bash functionality. The only one, that need to be installed is a perl programming language (must be available for pretty much any Linux distro) for adding numbers to duplicated headers. Also awk and sed must be installed (they should be installed by default, so no need to worry)
